@@ -1,19 +1,30 @@
-# History files
-.Rhistory
-.Rapp.history
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-# Session Data files
-.RData
+# Precompiled Headers
+*.gch
+*.pch
 
-# Example code in package build process
-*-Ex.R
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
 
-# RStudio files
-.Rproj.user/
+# Fortran module files
+*.mod
 
-# produced vignettes
-vignettes/*.html
-vignettes/*.pdf
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
 
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
+# Executables
+*.exe
+*.out
+*.app
+*.lyx~
+*.lyx#
