@@ -19,3 +19,6 @@ This is because the LyX document is developed with a newer version of LyX.
  * [![Build Status](https://travis-ci.org/richelbilderbeek/nLTT.svg?branch=master)](https://travis-ci.org/richelbilderbeek/nLTT) [![codecov.io](https://codecov.io/github/richelbilderbeek/nLTT/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/nLTT?branch=master) [nLTT](https://github.com/richelbilderbeek/nLTT)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/ribir.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ribir) [![codecov.io](https://codecov.io/github/richelbilderbeek/ribir/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/ribir?branch=master) [ribir](https://github.com/richelbilderbeek/ribir)
 
+## Other Travis tutorials
+
+ * [Travis C++ tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
