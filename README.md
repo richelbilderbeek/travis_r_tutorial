@@ -22,3 +22,4 @@ This is because the LyX document is developed with a newer version of LyX.
 ## Other Travis tutorials
 
  * [Travis C++ tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial)
+ * [General Travis tutorial](https://github.com/richelbilderbeek/travis_tutorial)
