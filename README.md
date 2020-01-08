@@ -10,7 +10,7 @@ Tutorial how to use Travis CI with R.
 
 ## More complex R programs
 
- * [![Build Status](https://travis-ci.org/richelbilderbeek/nLTT.svg?branch=master)](https://travis-ci.org/richelbilderbeek/nLTT) [![codecov.io](https://codecov.io/github/richelbilderbeek/nLTT/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/nLTT?branch=master) [nLTT](https://github.com/richelbilderbeek/nLTT)
+ * [![Build Status](https://travis-ci.org/thijsjanzen/nLTT.svg?branch=master)](https://travis-ci.org/thijsjanzen/nLTT) [![codecov.io](https://codecov.io/github/thijsjanzen/nLTT/coverage.svg?branch=master)](https://codecov.io/github/thijsjanzen/nLTT?branch=master) [nLTT](https://github.com/thijsjanzen/nLTT)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/ribir.svg?branch=master)](https://travis-ci.org/richelbilderbeek/ribir) [![codecov.io](https://codecov.io/github/richelbilderbeek/ribir/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/ribir?branch=master) [ribir](https://github.com/richelbilderbeek/ribir)
 
 ## Videos
